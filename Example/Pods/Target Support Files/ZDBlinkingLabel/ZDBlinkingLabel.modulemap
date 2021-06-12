@@ -1,0 +1,6 @@
+framework module ZDBlinkingLabel {
+  umbrella header "ZDBlinkingLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

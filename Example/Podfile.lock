@@ -1,0 +1,16 @@
+PODS:
+  - ZDBlinkingLabel (0.1.0)
+
+DEPENDENCIES:
+  - ZDBlinkingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  ZDBlinkingLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZDBlinkingLabel: b442331275cb8dfb630a676171f74e840fedf069
+
+PODFILE CHECKSUM: 5fe0eae54024b07af5cc27afcb454bf75b833cef
+
+COCOAPODS: 1.10.1
